@@ -105,7 +105,7 @@ if(isset($_SESSION['userId']))
            	   </div>
 
            	   <input type="submit" id="submit" name="submit" class="btn btn-primary" value="Submit">
-               I have an account.<a href="login.php">Login </a>
+               I have an account.<a href="index.php">Login </a>
 
            </form>
 
